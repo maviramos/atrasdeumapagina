@@ -5,4 +5,3 @@ que tocam o coração e alimentam a mente. Seja para encontrar conforto na famil
 nosso objetivo é criar um espaço acolhedor onde cada palavra ressoe com sinceridade e significado.
 
 
-http://maviramos.pythonanywhere.com/

@@ -33,8 +33,6 @@ def index():
     search_results = None
     if request.method == 'POST':
         query = request.form['query']
-        # Aqui você pode adicionar lógica para buscar os resultados com base na consulta
-        # Por enquanto, vamos apenas retornar a consulta inserida
         search_results = f"Você pesquisou por: {query}"
     return render_template('index.html', search_results=search_results)
 
